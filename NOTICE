@@ -1,0 +1,8 @@
+The code in this repository is MIT licensed (see LICENSE).
+
+It reads, but does not include or redistribute, the dataset deposited at
+doi:10.4121/384b7cf5-94da-4275-a6d6-a868eca8fec2, which is licensed
+CC BY-NC 4.0 by its depositors. Non-commercial use of that dataset is
+permitted with attribution. Commercial use, including training a model
+intended for a commercial product, requires written permission from the
+depositing laboratory. Nothing here grants that permission.
